@@ -6,6 +6,17 @@ format:
   html: default
 ---
 
-# About
+# About Me
 
-This is the about page for my website.
+Welcome to my website! Here you'll find information about my interests and some of the projects I'm working on. 
+
+## Interests
+- Web Development  
+- Data Analysis  
+- Machine Learning  
+
+## Current Projects
+- Analyzing real-world data sets  
+- Building interactive web applications  
+
+Feel free to explore the rest of the site to learn more. Enjoy!
