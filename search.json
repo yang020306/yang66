@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my website! Here you’ll find information about my interests and some of the projects I’m working on.\n\n\n\nWeb Development\n\nData Analysis\n\nMachine Learning\n\n\n\n\n\nAnalyzing real-world data sets\n\nBuilding interactive web applications\n\nFeel free to explore the rest of the site to learn more. Enjoy!"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "",
+    "text": "Web Development\n\nData Analysis\n\nMachine Learning"
+  },
+  {
+    "objectID": "about.html#current-projects",
+    "href": "about.html#current-projects",
+    "title": "About",
+    "section": "",
+    "text": "Analyzing real-world data sets\n\nBuilding interactive web applications\n\nFeel free to explore the rest of the site to learn more. Enjoy!"
+  }
+]
