@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Website"
+author: "Yanyang He"
+date: "2025-01-31"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+
+Welcome to my Quarto website.
